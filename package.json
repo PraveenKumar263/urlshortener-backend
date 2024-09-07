@@ -1,0 +1,19 @@
+{
+  "name": "urlshortener-backend",
+  "version": "1.0.0",
+  "description": "Backend for urlshortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PraveenKumar263/urlshortener-backend.git"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraveenKumar263/urlshortener-backend/issues"
+  },
+  "homepage": "https://github.com/PraveenKumar263/urlshortener-backend#readme"
+}
